@@ -1,0 +1,10 @@
+# Ignorar PCAPs grandes do Kim (ficam no Figshare)
+benign_traffic.pcap
+dos_noti_flood.pcap
+fuzzy_sd_offer_rand_noti*.pcap
+mitm_multi_attacker.pcap
+mitm_single_attacker.pcap
+
+# OS
+.DS_Store
+Thumbs.db
